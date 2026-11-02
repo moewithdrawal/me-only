@@ -12,3 +12,10 @@ This update expands the existing iPhone PWA with: Buddy daily tasks and randomiz
 App data, uploaded PNGs, and custom companion art are stored in browser localStorage on this device. They are not uploaded to GitHub or synced automatically. Export backups regularly. PNG uploads are limited to 2 MB each in this build to reduce storage pressure. Avoid uploading personal backup JSON files to the public repository.
 
 This is a client-side prototype. It does not include bank connections, cloud sync, push notifications, or guaranteed background alarms. Tarot is for reflection and entertainment, not financial or medical advice.
+
+
+## Buddy-led navigation update (v6)
+- Home now includes a roaming Buddy scene. Tap Buddy to open the dedicated companion room.
+- Planner, Care, Food, Money, Calendar, Collection, Tarot, Companion, Explore, Goals, and Settings open with a short animated scene showing Buddy doing a section-related activity.
+- Tap the scene button to enter the section content. This keeps the companion as the visual focus before the tools appear.
+- Uses the current uploaded Buddy expression where available; otherwise shows a simple placeholder.
