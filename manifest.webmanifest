@@ -1,0 +1,9 @@
+{
+  "name": "little wish \u2661",
+  "short_name": "little wish",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fff6df",
+  "theme_color": "#fff0c2",
+  "description": "A whimsical personal life dashboard."
+}
