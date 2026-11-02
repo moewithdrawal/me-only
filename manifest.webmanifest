@@ -1,9 +1,9 @@
 {
-  "name": "little wish \u2661",
-  "short_name": "little wish",
+  "name": "Little Wish — Applewood Village",
+  "short_name": "Little Wish",
   "start_url": "./",
   "display": "standalone",
-  "background_color": "#fff6df",
-  "theme_color": "#fff0c2",
-  "description": "A whimsical personal life dashboard."
+  "background_color": "#f5efdf",
+  "theme_color": "#a8433c",
+  "description": "A little world for all the little things that make a life."
 }
