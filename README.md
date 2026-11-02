@@ -19,3 +19,10 @@ This is a client-side prototype. It does not include bank connections, cloud syn
 - Planner, Care, Food, Money, Calendar, Collection, Tarot, Companion, Explore, Goals, and Settings open with a short animated scene showing Buddy doing a section-related activity.
 - Tap the scene button to enter the section content. This keeps the companion as the visual focus before the tools appear.
 - Uses the current uploaded Buddy expression where available; otherwise shows a simple placeholder.
+
+
+## Custom MP3 audio (v7)
+- Open Settings → Sound and choose your background MP3 and button-click MP3 directly from the iPhone Files picker.
+- Background music loops while the app is open and can be played/paused/stopped; button sounds can be tested and muted independently.
+- Audio files are stored in this browser on this device using IndexedDB, not in the public GitHub repository. Re-select them if browser website data is cleared or you move to another device.
+- iOS may pause playback when Safari is backgrounded or the device is locked. Start playback with the in-app Play button.
